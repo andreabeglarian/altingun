@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git
+git add 
+git commit -m "Eerste commit"
+git remote add origin <https://github.com/andreabeglarian/altingun.git>
+git push -u origin master 
